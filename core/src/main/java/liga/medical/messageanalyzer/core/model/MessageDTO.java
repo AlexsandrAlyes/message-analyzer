@@ -7,7 +7,7 @@ public class MessageDTO {
 
     private int id;
 
-    private MessageStatus status;
+    private MessageStatus type;
 
-    private String content;
+    private String description;
 }
